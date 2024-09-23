@@ -4,11 +4,13 @@
 
 ### I consistently practice in my homelabs to gain hands-on experience and ensure continuous improvement. 
 
-### These are some of the commonly used software tools I work with in these labs: Wireshark, Nmap, Snort, Metasploit, Kali Linux, Burp Suite, Splunk, OpenVAS, Hashcat, OSSEC, John the Ripper, Tenable Nessus.
+### These are some of the commonly used software tools I work with in these labs: 
+
+Wireshark, Nmap, Snort, Metasploit, Kali Linux, Burp Suite, Splunk, OpenVAS, Hashcat, OSSEC, John the Ripper, Tenable Nessus.
 
 ---
 
-### This is a recent lab I completed:
+### This is a lab I recently completed:
 
 Lab Components:
 
