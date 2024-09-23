@@ -2,11 +2,13 @@
 
 ### I have built my own in-house cybersecurity homelab to simulate different components of a business network. It provides me with a practical environment for configuring, securing, and monitoring an IT infrastructure using various industry tools. This allows me to apply my skills in real-world scenarios.
 
-### I consistently practice in my homelabs to gain hands-on experience and ensure continuous improvement. Below are some of the commonly used software tools I work with in these labs: Wireshark, Nmap, Snort, Metasploit, Kali Linux, Burp Suite, Splunk, OpenVAS, Hashcat, OSSEC, John the Ripper, Tenable Nessus.
+### I consistently practice in my homelabs to gain hands-on experience and ensure continuous improvement. 
+
+### These are some of the commonly used software tools I work with in these labs: Wireshark, Nmap, Snort, Metasploit, Kali Linux, Burp Suite, Splunk, OpenVAS, Hashcat, OSSEC, John the Ripper, Tenable Nessus.
 
 ---
 
-### Here is a recent lab I completed:
+### This is a recent lab I completed:
 
 Lab Components:
 
@@ -38,7 +40,7 @@ Tools:
 
 - Vulnerable Machines: Ubuntu, Windows, DVWA, VulnHub machines
 
-### This homelab setup has greatly enhanced my hands-on skills and prepared me for real-world scenarios in the field of cybersecurity.
+#### This homelab setup has greatly enhanced my hands-on skills and prepared me for real-world scenarios in the field of cybersecurity.
 
 ---
 
@@ -103,3 +105,6 @@ Tools:
    - Tools: Wireshark, tcpdump, Zeek (formerly Bro)
 
    - Focus: I capture and analyze network traffic using Wireshark or Zeek. I simulate various attacks (e.g., ARP spoofing, DNS poisoning) and analyze network traffic to understand patterns and detect malicious behavior.
+
+---
+
