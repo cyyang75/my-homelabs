@@ -10,42 +10,6 @@ Wireshark, Nmap, Snort, Metasploit, Kali Linux, Burp Suite, Splunk, OpenVAS, Has
 
 ---
 
-### This is a lab I recently completed:
-
-Lab Components:
-
-- pfSense firewall for perimeter defense
-
-- Security Onion IDS for intrusion detection
-
-- Kali Linux for attack simulation
-
-- Windows Server as an Active Directory domain controller
-
-- Splunk for log management
-
-- Various Linux machines for testing vulnerabilities
-
-Tools:
-
-- Attacker: Kali Linux
-
-- Firewall: pfSense
-
-- IDS: Security Onion
-
-- SIEM: Splunk
-
-- Hypervisor: VMware/VirtualBox
-
-- Domain Controller: Windows Active Directory
-
-- Vulnerable Machines: Ubuntu, Windows, DVWA, VulnHub machines
-
-#### This homelab setup has greatly enhanced my hands-on skills and prepared me for real-world scenarios in the field of cybersecurity.
-
----
-
 ### Below are some cybersecurity homelab projects I have completed, am currently working on, or plan to work on, all tailored to my goal of becoming an entry-level Security Analyst, SOC Analyst, or Incident Handler:
 
 1. Network Monitoring Lab (SOC Simulation)
@@ -110,3 +74,38 @@ Tools:
 
 ---
 
+### This is a lab I recently completed:
+
+Lab Components:
+
+- pfSense firewall for perimeter defense
+
+- Security Onion IDS for intrusion detection
+
+- Kali Linux for attack simulation
+
+- Windows Server as an Active Directory domain controller
+
+- Splunk for log management
+
+- Various Linux machines for testing vulnerabilities
+
+Tools:
+
+- Attacker: Kali Linux
+
+- Firewall: pfSense
+
+- IDS: Security Onion
+
+- SIEM: Splunk
+
+- Hypervisor: VMware/VirtualBox
+
+- Domain Controller: Windows Active Directory
+
+- Vulnerable Machines: Ubuntu, Windows, DVWA, VulnHub machines
+
+#### This homelab setup has greatly enhanced my hands-on skills and prepared me for real-world scenarios in the field of cybersecurity.
+
+---
